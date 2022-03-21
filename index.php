@@ -3,7 +3,7 @@
 //index.php API
 
 //Include Configuration File
-include('config.php');
+include('tes/config.php');
 
 $login_button = '';
 
